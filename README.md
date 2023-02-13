@@ -1,5 +1,5 @@
 ### Hello there 👋
-currently student I try to give the best of myself to learn web development either with others or by myself
+Currently student I try to give the best of myself to learn web development either with others or by myself
 <!--
 **DavidSark/DavidSark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
